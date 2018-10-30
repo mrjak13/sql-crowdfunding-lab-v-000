@@ -10,7 +10,7 @@ CREATE TABLE projects (
 CREATE TABLE user (
   id INTEGER PRIMARY KEY,
   name TEXT,
-  age INTEGER  
+  age INTEGER
 );
 
 CREATE TABLE pledge (
